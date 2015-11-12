@@ -1,4 +1,4 @@
-# Forbids the use of push() on arrays, preferring concat, which doesn't mutate. (no-pushing)
+# Forbids the use of push() on arrays, preferring concat, which doesn't mutate. (no-mutation)
 
 Please describe the origin of the rule here.
 

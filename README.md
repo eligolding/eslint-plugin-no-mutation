@@ -1,6 +1,8 @@
 # eslint-plugin-no-mutation
 
-Warns against use of methods that mutate arrays.
+Warns against use of methods that mutate arrays. Encourages using a more functional style
+
+**Note:** Not ready for use. At all.
 
 ## Installation
 
