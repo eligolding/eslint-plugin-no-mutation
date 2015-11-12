@@ -1,0 +1,26 @@
+{
+  "name": "eslint-plugin-no-mutation",
+  "version": "0.0.0",
+  "description": "Warns against use of methods that mutate arrays.",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ],
+  "author": "Eli Golding",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha `find tests`"
+  },
+  "dependencies": {
+    "mocha": "^2.3.3",
+    "requireindex": "~1.1.0"
+  },
+  "devDependencies": {
+    "eslint": "~1.2.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "license": "ISC"
+}
